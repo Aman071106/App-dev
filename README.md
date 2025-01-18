@@ -49,6 +49,16 @@ Welcome to the **App Dev** repository! This is a showcase of my Android applicat
 
 ---
 
+### 5. 🏦 Banking App UI
+- **Description**: A modern and dynamic UI for a banking application designed using Jetpack Compose.
+- **Technologies Learned**:
+  - **Jetpack Compose**: Created interactive and responsive layouts.
+  - **Dynamic Widgets**: Integrated dynamic components to enhance user experience.
+  - **Material Design**: Followed Material Design principles for a polished look.
+- **Key Skills**: Compose-based UI development, responsive design, and interactive elements.
+
+---
+
 ## 🛠️ Skills Acquired
 
 Through these projects, I have gained hands-on experience with the following:
