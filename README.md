@@ -1,6 +1,6 @@
 # App Dev Repository 🚀
 
-Welcome to the **App Dev** repository! This is a showcase of my Android application development journey, where I explored different tools, technologies, and frameworks to create functional and engaging apps. 📱💻
+Welcome to the **App Dev** repository! This is a showcase of my application development journey, highlighting various tools, technologies, and frameworks used to create functional, visually appealing, and engaging apps. 📱💻
 
 ---
 
@@ -59,37 +59,64 @@ Welcome to the **App Dev** repository! This is a showcase of my Android applicat
 
 ---
 
+### 6. 🧩 Flutter UI Demo
+- **Description**: A collection of 20+ widgets showcasing the power and flexibility of Flutter's UI system.
+- **Widgets Demonstrated**:
+  - Layout widgets like `Column`, `Row`, and `Stack`.
+  - Interactive widgets like `GestureDetector`, `Switch`, and `Slider`.
+  - Advanced widgets like `ListView`, `GridView`, and `CustomPainter`.
+- **Key Skills**:
+  - Flutter widget lifecycle and customization.
+  - Layout building and responsive design.
+  - Interactive and visually appealing UI components.
+
+---
+
 ## 🛠️ Skills Acquired
 
-Through these projects, I have gained hands-on experience with the following:
-
-### ⚙️ Core Android Development Skills
-- Kotlin programming language.
-- MVVM architecture for scalable and maintainable apps.
-- Jetpack Compose for modern UI development.
+### ⚙️ Core Development Skills
+- **Kotlin**: Mastered Android app development with Kotlin.
+- **Flutter**: Proficient in building responsive UIs and cross-platform apps.
+- **MVVM Architecture**: Adopted for scalable and maintainable codebases.
+- **Jetpack Compose**: Experienced in declarative UI programming.
 
 ### 🌐 API Integration
-- Using Retrofit to consume RESTful APIs.
-- Postman for testing and verifying APIs.
+- **Retrofit**: Consumed RESTful APIs efficiently.
+- **Postman**: Tested and verified APIs.
 
 ### 🧰 Tools and Frameworks
-- Dependency injection with Hilt.
-- Navigation components for seamless user experiences.
-- Network debugging and inspection tools.
+- **Hilt**: Simplified dependency injection.
+- **Navigation Components**: Built seamless user experiences.
+- **Network Debugging**: Utilized tools to inspect and optimize traffic.
 
 ### 📐 UI/UX Design
-- Designing layouts with XML.
-- Building dynamic, responsive UIs with Jetpack Compose.
+- **XML Layouts**: Created polished and functional interfaces.
+- **Jetpack Compose**: Built dynamic and interactive designs.
+- **Material Design Principles**: Delivered aesthetically pleasing apps.
+
+### 🎨 Flutter Widgets
+- Explored over 20 Flutter widgets for layouts, interactivity, and design customization.
 
 ---
 
 ## 🌟 Highlights
-- **Beginner to Full-Stack Developer**: From a simple BMI calculator to a full-stack tweets app.
-- **Emphasis on Learning**: Every project reflects a milestone in my Android development journey.
-- **Modern Practices**: Adopted cutting-edge practices like MVVM, Hilt, and Jetpack Compose.
+- **Beginner to Full-Stack Developer**: Progressed from simple apps to full-stack solutions.
+- **Flutter and Android Mastery**: Bridged native and cross-platform development.
+- **Emphasis on Learning**: Every project reflects a key milestone.
+- **Modern Practices**: Adopted cutting-edge tools like MVVM, Hilt, and Jetpack Compose.
 
 ---
 
-### 🚀 Ready to Explore?
-Feel free to dive into the codebase and check out the projects. Contributions and feedback are welcome! 💡
+### 🎯 Skills List
+- 📱 Android Development
+- 🎨 Flutter UI Development
+- 🚀 API Integration
+- 📐 UI/UX Design
+- 🏗️ MVVM Architecture
+- 💉 Dependency Injection (Hilt)
+- 🔍 API Testing (Postman)
+- 🔧 Debugging & Optimization
 
+---
+
+Feel free to explore the codebase and check out the projects. Contributions and feedback are always welcome! 💡
